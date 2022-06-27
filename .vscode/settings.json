@@ -1,0 +1,5 @@
+{
+  "debug.javascript.suggestPrettyPrinting": false,
+  "editor.cursorStyle": "line",
+  "outline.problems.enabled": true
+}
